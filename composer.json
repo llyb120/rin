@@ -1,0 +1,12 @@
+{
+    "name": "llyb120/rin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bin",
+            "email": "llyb120@gmail.com"
+        }
+    ],
+    "require": {}
+}
